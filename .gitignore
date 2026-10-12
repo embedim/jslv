@@ -1,0 +1,5 @@
+.pio
+bin
+managed_components
+*.old
+*.lock
